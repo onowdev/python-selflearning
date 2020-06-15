@@ -17,3 +17,6 @@ print(str[2:]) # mencetak string Dimulai dari index ke 3
 print(str * 2) # mencetak String 2x
 print(str + "TEST") # mencetak string dengan menambahkan Kata TEST
 
+# print("*" * 20, "Selesai", "*", * 20 )
+
+print("*" * 40)
