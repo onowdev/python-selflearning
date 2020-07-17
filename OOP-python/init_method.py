@@ -7,3 +7,4 @@ class Person:
 
 p = Person("Andra Sugiono")
 p.say_hi()
+p.say_hi()
